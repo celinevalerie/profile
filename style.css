@@ -1,0 +1,110 @@
+body {
+  background-color: #52050A;
+  font-family: 'Montserrat', sans-serif;
+  }
+
+h1, h2 {
+  color: #E7DFC6;
+  line-height: 1.6;
+}
+
+h2 {color: #E7DFC6;
+}
+
+p {
+  color: grey;
+}
+
+a {
+  color: grey;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+i {
+  font-size: 35px;
+  color: #6F6866;
+}
+
+i:hover {
+  color: #C8C8C8;
+}
+
+img {
+  border-radius: 50px;
+  color:
+}
+.main {
+  text-align: center;
+  background: white;
+  margin: 20px auto;
+  width: 300px;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px #DBD5B2;
+}
+
+.footer {
+  text-align: center;
+  background: white;
+  margin: 20px auto;
+  width: 300px;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px #DBD5B2;
+
+}
+
+#btn-wine {
+  background: #DBD5B2;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+#btn-wine:hover {
+  background: #E7DFC6;
+}
+
+#list-inline li {
+  display: inline;
+  padding: 10px;
+  }
+
+#list-inline {
+  padding: 0px; }
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
