@@ -38,7 +38,7 @@ img {
   text-align: center;
   background: white;
   margin: 20px auto;
-  width: 300px;
+  width: 500px;
   padding: 50px;
   border-radius: 10px;
   box-shadow: 2px 4px 10px #DBD5B2;
@@ -48,7 +48,8 @@ img {
   text-align: center;
   background: white;
   margin: 20px auto;
-  width: 300px;
+  width: 500px;
+  height: 50px;
   padding: 50px;
   border-radius: 10px;
   box-shadow: 2px 4px 10px #DBD5B2;
@@ -59,7 +60,7 @@ img {
   background: #DBD5B2;
   color: white;
   padding: 10px;
-  margin: 5px;
+  margin: 100px;
   border-radius: 5px;
   text-decoration: none;
 }
@@ -94,11 +95,6 @@ img {
     width: 300px;
   }
 }
-
-
-
-
-
 
 
 
